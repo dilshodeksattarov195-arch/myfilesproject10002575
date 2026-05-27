@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcerify",
+        "uuid": 5010950,
+        "checksum": "vicdaq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
