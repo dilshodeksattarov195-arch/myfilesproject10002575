@@ -1,0 +1,7 @@
+body { background: #19427c; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 24px; display: flex; }
+.block-payment-0 { color: #d68bb0; font-size: 20px; margin-bottom: 5px; }
+.block-invoice-1 { color: #333251; font-size: 19px; margin-bottom: 5px; }
+.block-token-2 { color: #f1f3b; font-size: 15px; margin-bottom: 5px; }
+.block-metrics-3 { color: #ae1b35; font-size: 19px; margin-bottom: 5px; }
+.block-invoice-4 { color: #ff8237; font-size: 15px; margin-bottom: 5px; }
